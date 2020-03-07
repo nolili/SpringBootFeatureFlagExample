@@ -1,7 +1,7 @@
 # SpringBootFeatureFlagExample
 
 - Enable/Disable FeatureFlagController using property `"com.noritakakamiya.feature-flag"`
-- Default value is written in src/main/resources/application.yml
+- Default value is written in [src/main/resources/application.yml](https://github.com/nolili/SpringBootFeatureFlagExample/blob/master/src/main/resources/application.yml)
 
 ## How to use
 
