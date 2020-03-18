@@ -7,7 +7,7 @@
 
 ```shell script
 # Use new feature
-$ ./mvnw spring-boot:run -Dcom.noritakakamiya.feature-flag=true -Dspring-boot.run.fork.false
+$ ./mvnw spring-boot:run -Dcom.noritakakamiya.feature-flag=true -Dspring-boot.run.fork=false
 $ curl http://localhost:8080/new-feature
 > This is new feature!
 
